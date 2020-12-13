@@ -1,4 +1,3 @@
 # Project-Baru
-Project-Baru
-Repository-Baru
-# Project-Baru2
+Nama : Yulindra Tita
+NIM : 18.12.0866
